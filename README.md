@@ -1,2 +1,2 @@
 # Countdown-Timer
-Countdown Timer made by simple html, css, js
+Countdown Timer made using simple html, css, js
